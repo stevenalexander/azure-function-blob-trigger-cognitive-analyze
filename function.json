@@ -1,0 +1,13 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "dataType": "binary",
+      "direction": "in",
+      "path": "testcontainer/{name}",
+      "connection": "functionstutor98c8_STORAGE"
+    }
+  ],
+  "disabled": false
+}

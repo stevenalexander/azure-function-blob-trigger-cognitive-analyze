@@ -1,0 +1,17 @@
+{
+  "name": "cognitive-function",
+  "version": "1.0.0",
+  "description": "calls azure cognitive services",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
